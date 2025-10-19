@@ -27,7 +27,7 @@ You can view the final, winning prompt that generated `grocery_planner.py` here:
 
 ## Performance Results
 
-My prompt successfully guided the AI to build a highly efficient combinatiorial searching algorithm. On the provided stress-test data suite, using my own machine, the final program:
+My prompt successfully guided the AI to build a highly efficient combinatiorial searching algorithm. On the provided *custom* stress-test data suite, using my own machine, the final program:
 * Found the optimal solution in **0.001 seconds**
 * Proved optimality by exploring the entire valid search space in **0.481 seconds**
 * Intelligently **pruned over 200,000** invalid states to efficiently solve the problem.
