@@ -1,0 +1,12 @@
+[
+    {"name": "decoy_protein_A", "servings": 1, "ingredients": {"dpA": {"qty": 1, "unit": "kg"}}, "nutrition_per_serving": {"cal": 300, "protein": 50, "fiber": 1}},
+    {"name": "decoy_protein_B", "servings": 1, "ingredients": {"dpB": {"qty": 1, "unit": "kg"}}, "nutrition_per_serving": {"cal": 310, "protein": 52, "fiber": 1}},
+    {"name": "decoy_carb_A", "servings": 1, "ingredients": {"dcA": {"qty": 1, "unit": "kg"}}, "nutrition_per_serving": {"cal": 500, "protein": 10, "fiber": 2}},
+    {"name": "decoy_carb_B", "servings": 1, "ingredients": {"dcB": {"qty": 1, "unit": "kg"}}, "nutrition_per_serving": {"cal": 520, "protein": 11, "fiber": 2}},
+    {"name": "workhorse_A", "servings": 1, "ingredients": {"whA": {"qty": 1, "unit": "kg"}}, "nutrition_per_serving": {"cal": 400, "protein": 30, "fiber": 12}},
+    {"name": "workhorse_B", "servings": 1, "ingredients": {"whB": {"qty": 1, "unit": "kg"}}, "nutrition_per_serving": {"cal": 410, "protein": 32, "fiber": 11}},
+    {"name": "workhorse_C", "servings": 1, "ingredients": {"whC": {"qty": 1, "unit": "kg"}}, "nutrition_per_serving": {"cal": 390, "protein": 28, "fiber": 14}},
+    {"name": "workhorse_D", "servings": 1, "ingredients": {"whD": {"qty": 1, "unit": "kg"}}, "nutrition_per_serving": {"cal": 420, "protein": 35, "fiber": 10}},
+    {"name": "filler_A", "servings": 1, "ingredients": {"filA": {"qty": 1, "unit": "kg"}}, "nutrition_per_serving": {"cal": 200, "protein": 5, "fiber": 5}},
+    {"name": "filler_B", "servings": 1, "ingredients": {"filB": {"qty": 1, "unit": "kg"}}, "nutrition_per_serving": {"cal": 210, "protein": 6, "fiber": 4}}
+]

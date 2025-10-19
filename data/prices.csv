@@ -1,0 +1,11 @@
+item,unit_size,unit,unit_price,deal_type,deal_param
+dpA,1,kg,2.00,none,
+dpB,1,kg,2.10,none,
+dcA,1,kg,1.80,none, 
+dcB,1,kg,1.90,none,
+whA,1,kg,3.50,none,
+whB,1,kg,3.60,none,
+whC,1,kg,3.70,none,
+whD,1,kg,3.80,none,
+filA,1,kg,1.00,none,
+filB,1,kg,1.10,none,
